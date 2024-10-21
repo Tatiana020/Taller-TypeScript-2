@@ -1,4 +1,3 @@
-import './style.css';
 import { dataSeries } from './dataSeries';
 
 function cargarSeries() {
